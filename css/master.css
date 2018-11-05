@@ -98,6 +98,19 @@ body {
 	margin-bottom: 100px;
 }
 
+.skills {
+	max-width: 900px;
+	height: 200px;
+	border-radius: 20px;
+	background: rgba(0,0,0,0.4);
+	padding: 40px;
+	color: white;
+	margin: auto;
+	text-align: left;
+	border-top: 100px;
+	margin-bottom: 100px;
+}
+
 h1 {
 	letter-spacing: 3px;
 }
