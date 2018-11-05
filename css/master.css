@@ -10,21 +10,18 @@ body {
 	color: rg;
 }
 
-.jcent {
-
-}
-
 .prof-box {
-	width: 100% !important;
-	height: 100%;
+	width: 90px;
+	height: 350px;
 	border-radius: 35px;
 	background: rgba(0,0,0,0.4);
 	padding: 40px;
 	color: white;
+	margin: auto;
+	width: 30%;
 	margin-top: 120px;
 	text-align: center;
 	margin-bottom: 100px;
-
 }
 
 .prof-pic {
@@ -77,7 +74,7 @@ body {
 
 .activities {
 	width: 900px;
-	height: 2955px;
+	height: 3275px;
 	border-radius: 20px;
 	background: rgba(0,0,0,0.4);
 	padding: 40px;
@@ -103,4 +100,8 @@ body {
 
 h1 {
 	letter-spacing: 3px;
+}
+
+h2 {
+	letter-spacing: 5px;
 }
