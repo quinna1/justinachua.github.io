@@ -61,7 +61,7 @@ body {
 }
 
 .academics {
-	max-width: 900px;
+	width: 900px;
 	height: 270px;
 	border-radius: 20px;
 	background: rgba(0,0,0,0.4);
@@ -73,7 +73,7 @@ body {
 }
 
 .activities {
-	max-width: 900px;
+	width: 900px;
 	height: 4200px;
 	border-radius: 20px;
 	background: rgba(0,0,0,0.4);
@@ -86,7 +86,7 @@ body {
 }
 
 .experience {
-	max-width: 900px;
+	width: 900px;
 	height: 400px;
 	border-radius: 20px;
 	background: rgba(0,0,0,0.4);
@@ -99,7 +99,7 @@ body {
 }
 
 .skills {
-	max-width: 900px;
+	width: 900px;
 	height: 200px;
 	border-radius: 20px;
 	background: rgba(0,0,0,0.4);
