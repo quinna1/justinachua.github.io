@@ -1,4 +1,3 @@
-# justinachua.github.io
-Personal Portfolio
+# personal-website
 
-Written in HTML and CSS.
+A personal website programmed in HTML and CSS with a flowing gradient background. 
